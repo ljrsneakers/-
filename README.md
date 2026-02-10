@@ -1,5 +1,5 @@
 <img width="1466" height="1004" alt="c07e0a62a10b1d0aece9321a7f993112" src="https://github.com/user-attachments/assets/58efa08d-b0d3-43be-af12-697eaa23861a" />
-<img width="1466" height="1004" alt="c07e0a62a10b1d0aece9321a7f993112" src="https://github.com/user-attachments/assets/c4941965-70f8-4ecf-9a86-891ebf9c7acb" />
+
 
  # TeslaCamViewer-Py
 
@@ -93,4 +93,5 @@ $env:DASHSCOPE_ENDPOINT="https://dashscope.aliyuncs.com/compatible-mode/v1/chat/
 
 3. 事件很多、分析较慢
 - 首次分析较慢；后续命中 SQLite 缓存会明显加快。
+
 
