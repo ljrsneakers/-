@@ -1,0 +1,25 @@
+# Python and build artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+*.egg-info/
+*.egg
+dist/
+build/
+*.spec
+*.whl
+*.zip
+*.tar.gz
+yolov8n.pt
+
+# VS Code
+.vscode/
+
+# TeslaCam viewer generated outputs
+teslacam_viewer_py/.ai_frames/
+
+# Additional
+*.log

@@ -1,0 +1,5 @@
+{
+  "dashscope_api_key": "sk-54224f94890a4ae992cea4d8cd63881b",
+  "dashscope_endpoint": "https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions",
+  "qwen_model_name": "qwen-vl-max-latest"
+}
